@@ -1,5 +1,4 @@
 [![Header](https://github.com/lauendewrau/lauendewrau/blob/main/assets/Header.png)](https://github.com/lauendewrau)
-#
 ## I'm a beginner Software Engeneer
 ### 🔧 Languages & Tools
 ![c#](https://img.shields.io/badge/OS-Windows-2970c2?style=for-the-badge&logo=windows)
