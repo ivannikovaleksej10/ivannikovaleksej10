@@ -3,8 +3,7 @@
 ## I'm a beginner Software Engeneer
 
 ### Latest repos
-<!-- GITHUB:START -->
-<!-- GITHUB:END -->
+
 
 ### 🔧 Languages & Tools
 ![c#](https://img.shields.io/badge/OS-Windows-2970c2?style=for-the-badge&logo=windows)
