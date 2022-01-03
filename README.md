@@ -1,6 +1,4 @@
-[![Header](https://github.com/lauendewrau/lauendewrau/blob/main/assets/Header.png)](https://github.com/lauendewrau)
-
-## <img src="https://raw.githubusercontent.com/lauendewrau/lauendewrau/master/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/moblamobla/moblamobla/master/wave.gif" width="25px"> Hi there! 
 
 ### 📈 GitHub Stats
 <p align="center">
