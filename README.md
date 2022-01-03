@@ -2,14 +2,6 @@
 
 ## <img src="https://raw.githubusercontent.com/lauendewrau/lauendewrau/master/wave.gif" width="25px"> Hi there! 
 
-### I'm a beginner Software Engeneer
-
-### 🔧 Languages & Tools
-![c#](https://img.shields.io/badge/OS-Windows-2970c2?style=for-the-badge&logo=windows)
-![Editor](https://img.shields.io/badge/Editor-Visual_Studio-2970c2?style=for-the-badge&logo=visualstudio)
-![Code](https://img.shields.io/badge/Code-Csharp-2970c2?style=for-the-badge&logo=csharp)
-
-
 ### 📈 GitHub Stats
 <p align="center">
   <table>
