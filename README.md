@@ -1,5 +1,3 @@
-[![Header](https://github.com/moblamobla/moblamobla/blob/main/assets/Header.png)](https://github.com/moblamobla)
-
 ## <img src="https://raw.githubusercontent.com/moblamobla/moblamobla/master/wave.gif" width="25px"> Hi there! 
 
 ### 🛠 Languages and Tools
