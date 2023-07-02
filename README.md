@@ -10,8 +10,8 @@
 
 ### 📞 Contact Me
 
-[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/eblamobla)
-[![gmail](https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail)](mailto:eblawobla@gmail.com)
+[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/youngrichwigga)
+[![gmail](https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail)](mailto:ivannikovaleksej10@gmail.com)
 
 ### 📈 GitHub Stats
 <p align="center">
