@@ -2,6 +2,8 @@
 
 ### 🛠 Languages and Tools
 ![javascript](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)
+![python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
+![csharp](https://img.shields.io/badge/-csharp-000?style=for-the-badge&logo=csharp)
 ![jquery](https://img.shields.io/badge/-jquery-000?style=for-the-badge&logo=jquery)
 ![vue](https://img.shields.io/badge/-vue-000?style=for-the-badge&logo=vue.js)
 ![.Net](https://img.shields.io/badge/-framework-000?style=for-the-badge&logo=.net)
