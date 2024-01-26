@@ -1,12 +1,15 @@
 ## <img src="https://raw.githubusercontent.com/ivannikovaleksej10/ivannikovaleksej10/master/wave.gif" width="25px"> Hi there! 
 
 ### 🛠 Languages and Tools
-![javascript](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)
+
 ![python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
+![flask](https://img.shields.io/badge/-flask-000?style=for-the-badge&logo=flask)
 ![csharp](https://img.shields.io/badge/-csharp-000?style=for-the-badge&logo=csharp)
+![.Net](https://img.shields.io/badge/-framework-000?style=for-the-badge&logo=.net)
+
+![javascript](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)
 ![jquery](https://img.shields.io/badge/-jquery-000?style=for-the-badge&logo=jquery)
 ![vue](https://img.shields.io/badge/-vue-000?style=for-the-badge&logo=vue.js)
-![.Net](https://img.shields.io/badge/-framework-000?style=for-the-badge&logo=.net)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
 
