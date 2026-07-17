@@ -13,11 +13,6 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
 
-### 📞 Contact Me
-
-[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/youngrichwigga)
-[![gmail](https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail)](mailto:ivannikovaleksej10@gmail.com)
-
 ### 📈 GitHub Stats
 <p align="center">
   <table>
@@ -30,14 +25,6 @@
 
 <br />
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dd0db2095da82caf9cfc3b?variant=dark)](https://roadmap.sh)
-
-
-</details>
 
 
 
